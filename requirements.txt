@@ -1,0 +1,11 @@
+audio2vec==0.6.16
+dash==2.9.3
+dash_auth==2.0.0
+dash_bootstrap_components==1.4.2
+dash_recording_components==1.0.3
+joblib==1.4.2
+numpy==1.24.4
+pandas==1.3.5
+Requests==2.32.3
+scikit_learn==1.5.0
+soundfile==0.12.1
