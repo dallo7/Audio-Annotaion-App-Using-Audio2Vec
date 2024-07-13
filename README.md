@@ -1,4 +1,5 @@
-# # This is a plotly Dash Demo for using the Audio2Vec package!
+# This is a plotly Dash Demo for using the Audio2Vec package!
+
 # Voice Classification Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -49,11 +50,13 @@ This tool provides a user-friendly interface for recording, playing, and classif
    ```bash
    git clone <repository-url>
    cd <repository-name>
+   ```
 
 ```bash
 pip install -r requirements.txt
 
 python app.py
+```
 
 Usage
  - Access the App: Open your web browser and navigate to the app's URL.
