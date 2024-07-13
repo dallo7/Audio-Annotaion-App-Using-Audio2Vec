@@ -2,7 +2,7 @@
 
 # Audio Annotation and Encoding Tool
 
-## For Dash Community!
+## For Dash.Plotly Community!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
