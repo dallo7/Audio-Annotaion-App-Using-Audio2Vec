@@ -3,6 +3,9 @@
 # Voice Classification Tool
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
+[![Dash](https://img.shields.io/badge/Dash-v2-orange)](https://dash.plotly.com/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 This tool provides a user-friendly interface for recording, playing, and classifying audio samples using machine learning models.
 
