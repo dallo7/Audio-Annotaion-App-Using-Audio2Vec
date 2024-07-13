@@ -64,6 +64,7 @@ Usage
  - Stop Recording: Click the "Stop Recording" button to end the recording.
  - Play Audio: Click the "Play" button to listen to your recording.
  - View Classification: The app will display the predicted class of the audio.
+
 File Structure
  - app.py: Main application file with Dash layout and callbacks.
  - knn.py: k-Nearest Neighbors classification model.
@@ -71,6 +72,7 @@ File Structure
  - outofSample.py: (If applicable) Script for handling out-of-sample data or testing.
  - audio2vec.py: (If applicable) Custom library for audio feature extraction.
  - /assets/logoA.png: Logo image.
+
 Models & Data
  - Classification Models:
  - k-Nearest Neighbors (k-NN): A simple and effective algorithm for audio classification.
