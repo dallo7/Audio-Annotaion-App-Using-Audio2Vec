@@ -1,6 +1,6 @@
-# This is a plotly Dash Demo for using the Audio2Vec package for annotation!
+# This is a plotly Dash Demo for using the Audio2Vec package for annotation and Encoding!
 
-# Voice Classification Tool
+# Audio Annotation and Encoding Tool
 
 ## Dash Community!
 
