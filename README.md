@@ -11,6 +11,9 @@
 
 This tool provides a user-friendly interface for recording, playing, and classifying audio samples using machine learning models.
 
+[![Video Thumbnail Image](https://github.com/dallo7/Audio-Annotaion-App-Using-Audio2Vec/blob/7253960f3fbc6e76dfc03816404e1fa88143a397/annotation.gif)]()                                        
+[![Video Thumbnail Image](https://github.com/dallo7/Audio-Annotaion-App-Using-Audio2Vec/blob/7253960f3fbc6e76dfc03816404e1fa88143a397/anotate.png)]()                                         
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
